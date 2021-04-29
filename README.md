@@ -18,14 +18,6 @@ To implement table row you should click “Edit” link, which redirects to edit
 
 Logic for creating a new record should be implemented via "Add User" button.
 
-Example of grid: 
- 
-Note: The grid on the screen is not required, it is only an example to understand better the requirements.
-To create and edit users you need to create a user form.
-Example of form:
- 
-Note: The form on the screen is not required, it is only an example to understand better the requirements.
-
 Required skills to complete the task:
 		Required Stack:
 ●	When completing the task you must use OOP principle.
@@ -34,8 +26,3 @@ Required skills to complete the task:
 Additional:
 ●	Create the table using php cli script.
 ●	Use Ajax - the filtering and sorting options should work without page reload
-
-
-Please send the repository link to  hello@encomage.com 
-Please upload the result of the test task on the GitHub
-
